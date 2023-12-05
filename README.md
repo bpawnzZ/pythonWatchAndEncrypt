@@ -1,4 +1,4 @@
-# pythonWat**README: File Encryption and Decryption**
+#**README: Monitor Folder and Automate encryption of any New files to to specified location**
 
 This repository contains scripts for encrypting and decrypting files using the Fernet symmetric encryption algorithm. The scripts utilize the watchdog library to monitor specified directories for new file creations, automatically encrypting or decrypting new files as they are added.
 
